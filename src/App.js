@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-    yarak
+    test2
     </div>
   );
 }
